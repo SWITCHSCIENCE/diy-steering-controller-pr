@@ -2,7 +2,7 @@
   "name": "ddt-steering-controller",
   "private": true,
   "scripts": {
-    "build": "slidev build -o docs",
+    "build": "slidev build -o docs --base /diy-steering-controller-pr",
     "dev": "slidev --open",
     "export": "slidev export"
   },
