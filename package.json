@@ -1,0 +1,14 @@
+{
+  "name": "ddt-steering-controller",
+  "private": true,
+  "scripts": {
+    "build": "slidev build -o doc",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.36.11",
+    "@slidev/theme-default": "*",
+    "@slidev/theme-seriph": "*"
+  }
+}
